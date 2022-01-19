@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Small Calculator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Resource
+Google font: https://fonts.google.com/
+
+Boxicons: https://boxicons.com/
+
+Images: https://unsplash.com/
 
 ## Available Scripts
 
